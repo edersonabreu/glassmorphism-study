@@ -9,5 +9,7 @@ DESKTOP DESIGN
 
 MOBILE DESIGN 
 <div align="center">
+  
 ![glassmorphism-mobile](https://user-images.githubusercontent.com/29956737/142250534-17ff0354-a41a-4ff4-bad7-3be6a5d5f91f.PNG)
+  
 </div>
